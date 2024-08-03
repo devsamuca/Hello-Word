@@ -24,6 +24,8 @@
 
 #profile{
     width: 150px;
+    border: 0;
+    box-shadow: 1px 1px 10px #3e4752;
     border-radius: 1000px;
     margin: 0;
     transition: 1s ease;
