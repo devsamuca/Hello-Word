@@ -45,5 +45,5 @@
 <a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>
-________________________________________________________________________________________________________________________________________________________
+
 <div align="center"> <img align="center" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"> </div>
