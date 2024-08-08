@@ -1,6 +1,22 @@
+var github = document.getElementById('github')
+var discord = document.getElementById('discord')
+var insta = document.getElementById('insta')
+var linkedin = document.getElementById('linkedin')
+
+github.addEventListener('mouseenter', Github)
+github.addEventListener('mouseout', outgit)
+
+discord.addEventListener('mouseenter', Discord)
+discord.addEventListener('mouseout', outdisc)
+
+insta.addEventListener('mouseenter', Insta)
+insta.addEventListener('mouseout', outinsta)
+
+linkedin.addEventListener('mouseenter', Linkedin)
+linkedin.addEventListener('mouseout', outlinkedin)
+
 
 function Github(){
-    var github = document.getElementById('github')
     github.src = "img/github.png"
     github.style.transition = '0.5s ease'
 }
@@ -11,7 +27,6 @@ function outgit(){
 }
 
 function Discord(){
-    var discord = document.getElementById('discord')
     discord.src = 'img/disc.png'
 }
 
@@ -20,7 +35,6 @@ function outdisc(){
 }
 
 function Insta(){
-    var insta = document.getElementById('insta')
     insta.src = 'img/instagram.png'
 }
 
@@ -29,7 +43,6 @@ function outinsta(){
 }
 
 function Linkedin(){
-    let linkedin = document.getElementById('linkedin')
     linkedin.src = 'img/linke.png'
 }
 
